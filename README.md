@@ -1,6 +1,6 @@
 # SCRCPY+
 
-<img src="https://github.com/Frontesque/scrcpy-plus/raw/main/icons/SCRCPY%2B.png" alt="scrcpy-plus icon" width="200"/>
+<img src="https://github.com/Frontesque/scrcpy-plus/raw/main/icons/SCRCPY%2B.png" alt="scrcpy-plus icon" width="200" style="display: block; margin-left: auto; margin-right: auto;"/> <!-- markdownlint-disable-line MD033 -->
 
 ## THANKS FOR 60K DOWNLOADS
 
@@ -22,11 +22,12 @@
 | 🍎 MacOS   | N/A  | N/A         | [Build guide](https://github.com/Frontesque/scrcpy-plus/blob/main/BUILDING.md)        |
 
 ### Community Downloads
+
 NOTE: These are community-provided methods. Please use official downloads if you wish to report an issue.
 
 | Platform   | Link | Command |
 | :-------   | :--: | :------ |
-| 🪟 WinGet | [Winstall](https://winstall.app/apps/Frontesque.scrcpy+)  | `winget install Frontesque.scrcpy+`      
+| 🪟 WinGet | [Winstall](https://winstall.app/apps/Frontesque.scrcpy+)  | `winget install Frontesque.scrcpy+`|
 
 ### Prerequisites
 
@@ -42,12 +43,13 @@ launchctl setenv PATH $PATH
 ### SCRCPY
 
 You can view the project that this is based off of here:
-https://github.com/Genymobile/scrcpy
+<https://github.com/Genymobile/scrcpy>
 
 Thanks a ton Genymobile!
 
 ### Screenshots
 
-<img src="https://api.celeste.photos/upload/5kyTNOr" height="400" />
-<img src="https://api.celeste.photos/upload/NOyGNji" height="400" />
-<img src="https://api.celeste.photos/upload/6qfSUsN" height="400" />
+<!-- markdownlint-disable MD033 -->
+<img src="https://api.celeste.photos/upload/5kyTNOr" height="400" alt="scrcpy-plus screenshot-1"/>
+<img src="https://api.celeste.photos/upload/NOyGNji" height="400" alt="scrcpy-plus screenshot-2"/>
+<img src="https://api.celeste.photos/upload/6qfSUsN" height="400" alt="scrcpy-plus screenshot-3"/>
